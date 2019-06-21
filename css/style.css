@@ -8,36 +8,12 @@ body {
     font-size: 12px;
 }
 
-.nav-item p {
-    margin-top: 12px;
-    margin-bottom: 0px;
-    }
-
 .nav-item .nav-link {
     line-height: 2;
-}
-
-.navbar {
-    padding-bottom: 0px;
-    padding-top: 0px;
 }
 
 .form-control {
     border-radius: 20px;
     text-align: center;
     max-width: 171px;
-}
-
-.fa-search {
-    margin-top: 18px;
-}
-
-#text {
-    margin-right: 20px;
-    margin-left: 20px;
-}
-
-#intro {
-
-    margin-left: 20px;
 }
